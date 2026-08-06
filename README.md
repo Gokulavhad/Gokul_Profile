@@ -225,7 +225,7 @@ https://wa.me/918530003623?text=Hi%20Gokul!...
 
 ## 🌐 Live Site
 
-After deploying: **https://gokulavhad.github.io**
+After deploying: ** https://gokulavhad.github.io/Gokul_Profile/**
 
 ---
 
